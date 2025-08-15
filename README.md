@@ -7,9 +7,17 @@
  5. Prometheus
  6. Grafana
 
-## Tools Requirements and needed to instal:
-- 1. Tofu https://opentofu.org/
+## Tools Requirements and needed to install:
+2. Helm
+> The package manager for Kubernetes
+```
+brew install helm
+```
+
+- 3. Open Tofu https://opentofu.org/
 ```
 brew update
 brew install opentofu
 ```
+
+
